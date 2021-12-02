@@ -8,3 +8,11 @@ Tutorial Exercises
 - Grouping and Sorting
 - Data Types and Missing Values
 - Renaming and Combining
+
+## Geospatial Analysis
+- Your First Map
+- Coordinate Reference Systems
+- Interactive Maps
+- Manipulating Geospatial Data
+- Proximity Analysis
+
