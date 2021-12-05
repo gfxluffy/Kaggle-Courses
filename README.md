@@ -16,3 +16,10 @@ Tutorial Exercises
 - Manipulating Geospatial Data
 - Proximity Analysis
 
+## Time Series
+- Linear Regression with Time Series
+- Trend
+- Seasonality
+- Time Series as Features
+- Hybrid Models
+- Forecasting with Machine Learning
