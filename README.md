@@ -23,3 +23,12 @@ Tutorial Exercises
 - Time Series as Features
 - Hybrid Models
 - Forecasting with Machine Learning
+
+## Intro to Machine Learning
+- How Models Work
+- Basic Data Exploration
+- Your First Machine Learning Model
+- Model Validation
+- Underfitting and Overfitting
+- Random Forests
+- ML Competitions
