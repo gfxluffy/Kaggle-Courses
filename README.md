@@ -32,3 +32,12 @@ Tutorial Exercises
 - Underfitting and Overfitting
 - Random Forests
 - ML Competitions
+
+## Intermediate Machine Learning
+- Introduction
+- Missing Values
+- Categorical Variables
+- Pipelines
+- Cross-Validation
+- XGBoost
+- Data Leakage
