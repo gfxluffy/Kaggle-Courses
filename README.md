@@ -41,3 +41,11 @@ Tutorial Exercises
 - Cross-Validation
 - XGBoost
 - Data Leakage
+
+## Feature Engineering
+- What is Feature Engineering
+- Mutual Information
+- Creating Features
+- Clustering with K-Means
+- Principal Component Analysis
+- Target Encoding
